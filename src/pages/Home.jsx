@@ -28,7 +28,7 @@ function Home() {
             <br />
             <br />
             <Link
-              to="https://github.com/stivenm0/CV/blob/main/Maycol_Estiven_Mu%C3%B1oz_Carmona.pdf" target="_blank"
+              to="/Maycol_Muñoz_CV.pdf" target="_blank"
               className="py-1.5 px-3 md:px-4 rounded-full duration-500 hover:scale-95 bg-gray-100 border-b border-indigo-300 shadow-sm shadow-indigo-200 hover:bg-gray-300"
             >
               Ver CV
