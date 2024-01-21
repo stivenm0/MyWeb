@@ -10,16 +10,9 @@ function Skills() {
     <div>
       <section className="px-5 py-5">
         <header className="md:px-0">
-          <h1 className="text-3xl font-semibold leading-snug text-gray-900 lg:leading-relaxed">
-            Skills
-          </h1>
         </header>
         <p className="mt-4 leading-relaxed md:text-xl text-slate-700 ">
-          Cuento con conocimientos en Backend con PHP(Laravel) 
-          y también con bases en Frontend con React, además de conocer buenas prácticas como Maquetación
-          Semántica, Metodología BEM, Diseño Mobile-First , Diseño Responsivo,
-          POO,  entre otras. Gran parte de mis conocimientos los he adquirido de
-          forma autodidacta y en cursos o capacitaciones.  Estoy comprometido con el aprendizaje continuo y ansío contribuir al crecimiento de proyectos desafiantes, demostrando flexibilidad, responsabilidad y habilidades efectivas de resolución de problemas.
+        Especializado en el desarrollo Backend con Laravel, he construido APIs RESTful, aplicaciones monolíticas con Laravel solo o en combinación con Livewire y utilizando MySQL para la gestión de bases de datos. Cuento con conocimientos en frontend con React y buenas prácticas de maquetación. Comprometido con el aprendizaje continuo, estoy preparado para contribuir al éxito de proyectos desafiantes, demostrando flexibilidad y habilidades efectivas de resolución de problemas.
         </p>
       </section>
 

@@ -3,6 +3,14 @@
 const data = {
     projects: [
         {
+            stack: ["Laravel", "React", "TailwindCSS", "MySQL"],
+            title: "Rasus",
+            img: "/projects/rasus.webp",
+            description: "Rasus proporciona un conjunto de herramientas para integrar un acortamiento de enlaces en Rasus. la API fue testeada con postman y es consumida por un Frontend en React, ademas, esta versionada y cuenta con bearer API token.",
+            repository: "https://github.com/stivenm0/rasus_backend",
+            link: "https://youtu.be/yB9iMueEPH8"
+        },
+        {
             stack: ["Laravel", "Livewire", "TailwindCSS", "Alpine.js", "MySQL"],
             title: "Repositi",
             img: "/projects/repositi.webp",
@@ -50,14 +58,6 @@ const data = {
             repository: "https://github.com/stivenm0/Launch_X/tree/main/Calculadora",
             link: "https://mcalculatorm.netlify.app/"
         },
-        {
-            stack: ["React", "TailwindCSS"],
-            title: "Web Task",
-            img: "/projects/tasks.webp",
-            description: "Una aplicación web sencilla para gestionar tareas, donde puedes agregar nuevas tareas y eliminarlas según sea necesario. Con un diseño limpio e intuitivo.",
-            repository: "https://github.com/stivenm0/Launch_X/tree/main/app-Tareas",
-            link: "https://app-tareas-five.vercel.app/"
-        },
     ],
 
     certifications: [
@@ -67,7 +67,7 @@ const data = {
         },
         {
             name: "Livewire",
-            img: "https://camo.githubusercontent.com/e93c41a69f5d835d9205a0cfdf6a7edcf2c76830b5e75fa1f6f06f271b588385/68747470733a2f2f6c61726176656c2d6c697665776972652e636f6d2f696d672f747769747465722e706e67"
+            img: "https://laravel-livewire.com/img/twitter.png"
         },
         {
             name: "MySQL",
